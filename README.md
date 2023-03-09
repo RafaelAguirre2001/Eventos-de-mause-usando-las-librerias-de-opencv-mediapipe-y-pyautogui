@@ -1,4 +1,4 @@
-# Eventos-de-mause-usando-las-librerias-de-opencv-mediapipe-y-pyautogui
+## :innocent: MausEvents
 instala las librerias de :
 - opencv
 - mediapipe
